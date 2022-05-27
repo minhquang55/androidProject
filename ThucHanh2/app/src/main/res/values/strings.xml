@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quản lý công việc</string>
+    <string name="username">Tên đăng nhập</string>
+    <string name="password">Mật khẩu</string>
+    <string name="login">Đăng nhập</string>
+    <string name="fullname">Họ và tên</string>
+    <string name="email">Email</string>
+    <string name="signup">Đăng ký</string>
+    <string name="loginhere">Bạn đã có tài khoản? <u>Đăng nhập</u></string>
+    <string name="signuphere">Tạo tài khoản mới? Đăng ký</string>
+    <string name="welcome">Welcome</string>
+</resources>
